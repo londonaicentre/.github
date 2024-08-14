@@ -1,6 +1,6 @@
 # D3London
 
-We are a 'cloud lab' based out of the London AI Centre, collaborating with organisations across the NHS. Our data engineers, data scientists, ML engineers, and domain experts work across national technology and data science programmes, including for the London Secure Data Environment.
+We are a 'cloud lab' based out of the London AI Centre, collaborating with organisations across the NHS. Our engineers, scientists, and clinical data experts work across national technology and data science programmes, including for the London Secure Data Environment.
 
 ```mermaid
 %%{init: {'theme': 'neutral' } }%%
