@@ -9,6 +9,6 @@ We are a 'cloud lab' with collaborators from different organisations.
 ```
 We are based at the London AI Centre, where our teams work across national technology and data science programmes, including the London Secure Data Environment.
 
-<a href="https://www.aicentre.co.uk/"><img src="logo_aic.png" alt="London AI Centre" title="" height="70" /></a>
+<a href="https://www.aicentre.co.uk/"><img src="https://openhealthhub.org/uploads/default/original/1X/3494038bee19363220a0f498ea780ce17a202e4d.gif" alt="London AI Centre" title="" height="70" /></a>
 
 
