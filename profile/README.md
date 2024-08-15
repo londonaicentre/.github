@@ -9,7 +9,7 @@ We are a 'lab' based out of the London AI Centre, collaborating with organisatio
       B-->C["Deploy"]
 ```
 
-**Discover** insights from deep and multi-modal data. **Develop** new tools, analytical products, and clinical integration. **Deploy** into real-world pathways for measurable impacts
+**Discover** insights from deep and multi-modal data. **Develop** new tools, analytical products, and clinical integration. **Deploy** into real-world pathways for measurable impacts.
 
 <a href="https://www.aicentre.co.uk/"><img src="https://openhealthhub.org/uploads/default/original/1X/3494038bee19363220a0f498ea780ce17a202e4d.gif" alt="London AI Centre" title="" height="70" /></a>
 
