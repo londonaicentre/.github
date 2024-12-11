@@ -1,6 +1,6 @@
 # D3London
 
-We are a team based out of the London AI Centre, collaborating with organisations across the NHS. Our engineers, scientists, and clinical data experts work across national technology and data science programmes, including the London Secure Data Environment. 
+We are based out of the London AI Centre, collaborating with organisations across the NHS. Our engineers, scientists, and clinical data experts work across national technology and data science programmes, including the London Secure Data Environment and the NHS Genomics AI Network, and undertake strategic commercial partnerships in Real-World Data and AI model development.   
 
 ```mermaid
 %%{init: {'theme': 'neutral' } }%%
