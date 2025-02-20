@@ -2,7 +2,7 @@
 
 The London Artificial Intelligence Centre for Value-Based Healthcare ('AI Centre', or 'London AI Centre', or 'AIC') is a collaboration between NHS organisations, universities, and commercial partners, bound together by Terms of Reference and individual partnership agreements. Our founding members can be seen [here](https://www.aicentre.co.uk/our-partners). 
 
-Our engineers, scientists, and clinical data experts work across national technology and data science programmes, and undertake strategic commercial partnerships in Real-World Data and AI model development. As well as the work found here, the AI Centre hosts the NHS Clinical AI Fellowship, and programmes of work in AI policy and strategy, and large scale NHS-commercial technology collaborations (including the [AI Deployment Engine / Federated Learning and Interoperability Platform](https://github.com/AI4VBH)).
+Our engineers, scientists, and clinical data experts work across national technology and data science programmes, and undertake strategic commercial partnerships in Real-World Data and AI model development. As well as the work found here, the AI Centre hosts the NHS Clinical AI Fellowship, and programmes of work in AI policy and strategy, and large scale NHS-commercial technology collaborations (including the [Artificial Intelligence Deployment Engine / Federated Learning and Interoperability Platform](https://github.com/AI4VBH)).
 
 This GitHub organisation hosts our work across the following functions:
 1. Leading high-value public sector and research programmes (such as the London Secure Data Environment, and within the NHS Genomics AI Network)
