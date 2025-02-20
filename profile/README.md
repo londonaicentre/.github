@@ -1,19 +1,18 @@
 # London AI Centre
 
-The Artificial Intelligence Centre for Value-Based Healthcare ('AI Centre', or 'London AI Centre', or 'AIC') is a collaboration between NHS organisations, universities, and commercial partners, bound together by Terms of Reference and individual partnership agreements. Our founding members can be seen [here](https://www.aicentre.co.uk/our-partners). 
+The London Artificial Intelligence Centre for Value-Based Healthcare ('AI Centre', or 'London AI Centre', or 'AIC') is a collaboration between NHS organisations, universities, and commercial partners, bound together by Terms of Reference and individual partnership agreements. Our founding members can be seen [here](https://www.aicentre.co.uk/our-partners). 
 
-Our engineers, scientists, and clinical data experts work across national technology and data science programmes, and undertake strategic commercial partnerships in Real-World Data and AI model development. As well as the work here, the AI Centre hosts the NHS Clinical AI Fellowship, and programmes of work in AI policy and strategy, and large scale NHS-commercial infrastructure collaborations.
+Our engineers, scientists, and clinical data experts work across national technology and data science programmes, and undertake strategic commercial partnerships in Real-World Data and AI model development. As well as the work found here, the AI Centre hosts the NHS Clinical AI Fellowship, and programmes of work in AI policy and strategy, and large scale NHS-commercial technology collaborations (including the [AI Deployment Engine / Federated Learning and Interoperability Platform](https://github.com/AI4VBH)).
 
-## D3London
-...is our GitHub organisation that hosts our work across the following functions:
+This GitHub organisation hosts our work across the following functions:
 1. Leading high-value public sector and research programmes (such as the London Secure Data Environment, and within the NHS Genomics AI Network)
 2. Collaborating on Real-World Data engineering, biomarker discovery, and SaMD development with commercial partners
 3. In-house Research & Development, including:
-    - **Discovery** through research and analytics in cutting edge healthcare domains
-    - **Developing** open source tooling, code, and AI models to benefit the NHS
-    - **Deploying** our tooling, pipelines, and models into NHS pathways, and monitoring/measuring their impact
+    - Health data research and analytics in cutting edge domains
+    - Developing open source tooling, code, and AI models to benefit the NHS
+    - Deployment into NHS pathways, and monitoring/measuring impact
 
-We work within the NHS, and directly with source data systems. This gives us unprecedented capabilities for building safe and ethical solutions across the entire vertical of data-driven solutions - in population health, Software-as-Medical-Device, and Real-World Data. In this way, we maximise the value of NHS data for patients and for the healthcare system.
+We work within the NHS, and directly with source data systems. This gives us unprecedented capabilities for building safe and ethical solutions across the entire vertical of data-driven solutions - in population health, AI devices, clinical trials, and Real-World Data. In this way, we maximise the value of NHS data for patients and for the healthcare system.
 
 </br>
 
