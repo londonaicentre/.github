@@ -12,7 +12,7 @@ This GitHub organisation hosts our work across the following functions:
     - Developing open source tooling, code, and AI models to benefit the NHS
     - Deployment into NHS pathways, and monitoring/measuring impact
 
-We work within the NHS, and directly with source data systems. This gives us unprecedented capabilities for building safe and ethical solutions across the entire vertical of data-driven solutions - in population health, AI devices, clinical trials, and Real-World Data. In this way, we maximise the value of NHS data for patients and for the healthcare system.
+We work within the NHS, and directly with source data systems. This gives us unprecedented capabilities for building safe and ethical solutions across the entire data-driven vertical - in population health, AI devices, clinical trials, and Real-World Data research. In this way, we maximise the value of NHS data for patients and for the healthcare system.
 
 </br>
 
